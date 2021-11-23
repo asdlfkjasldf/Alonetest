@@ -141,7 +141,7 @@
 		<dependency>
     		<groupId>org.springframework</groupId>
     		<artifactId>spring-jdbc</artifactId>
-    		<version>5.0.2.RELEASE</version>
+    		<version>${org.springframework-version}</version>
 		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/commons-dbcp/commons-dbcp -->

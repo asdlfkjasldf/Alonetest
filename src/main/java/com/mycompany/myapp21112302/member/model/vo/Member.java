@@ -2,6 +2,9 @@ package com.mycompany.myapp21112302.member.model.vo;
 
 import java.sql.Date;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Member {
 	/*
 	MEMBER_ID VARCHAR2(30) PRIMARY KEY,
